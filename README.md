@@ -18,4 +18,4 @@ Then you finally buy it!
 # Your Task:
 Your task is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. You can prepare a PPT/PDF on a real-life scenario explaining it with the above process (Plan, Prepare, Process, Analyze, Share, Act) and submit it as part of this task.
 ## View the Report:
-[Click here to access the Data Analytics Report](./https://drive.google.com/file/d/1ekHxoQ_nMV1UKEv1HLnQV-TPHx9DV3H7/view?usp=sharing)
+[Click here to access the Data Analytics Report](https://drive.google.com/file/d/1ekHxoQ_nMV1UKEv1HLnQV-TPHx9DV3H7/view?usp=sharing)
