@@ -1,5 +1,4 @@
-# Data Analytics Process
-This repository contains a report on the Data Analytics Process
+# Data Analytics Process: Application in Real Life Scenario Case Study
 Description:
 We use Data Analytics in everyday life without even knowing it.
 For eg : Going to a market to buy something .
@@ -17,3 +16,5 @@ Act
 Then you finally buy it!
 Your Task:
 Your task is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. You can prepare a PPT/PDF on a real-life scenario explaining it with the above process (Plan, Prepare, Process, Analyze, Share, Act) and submit it as part of this task.
+## View the Report
+[Click here to access the Data Analytics Report](./Data Analytics Process.pdf)
